@@ -10,5 +10,11 @@
       "live": "https://gametrack.onrender.com/games",
       "git": "https://github.com/dslvrgl8/game-track",
       "image": "https://i.imgur.com/m3bNXe2.png"
+    },
+    {
+      "name": "Felled Monsters of Hyrule",
+      "live": "https://zelda-app.onrender.com/",
+      "git": "https://github.com/sk1264/project-3-frontend-part-2",
+      "image": "https://i.imgur.com/oW9w5aV.png"
     }
   ]
